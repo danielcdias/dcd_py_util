@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "dcd_py_util"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
     { name = "Daniel Carvalho Dias", email = "daniel.dias@gmail.com" },
 ]
