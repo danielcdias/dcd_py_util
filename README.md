@@ -122,8 +122,3 @@ from dcd_py_util import encryption
 plain_text_decrypted: str = encryption.decrypt("Encrypted <encrypted text>")
 
 ```
-
-## Contact
-
-- Author: Daniel Carvalho Dias
-- E-mail: [daniel.dias@gmail.com](mailto:daniel.dias@gmail.com)

@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
     { name = "Daniel Carvalho Dias", email = "daniel.dias@gmail.com" },
 ]
-description = "Util stuff for Python."
+description = "Module that brings together useful tools for Python applications."
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
