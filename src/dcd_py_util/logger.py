@@ -2,7 +2,7 @@ import logging
 import os
 import pathlib
 
-from prefs_config import Preferences
+from .prefs_config import Preferences
 from logging.handlers import RotatingFileHandler
 
 prefs = Preferences().get_prefs()
